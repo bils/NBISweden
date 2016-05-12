@@ -1,2 +1,2 @@
 # NBISweden
-Bils has renamed to NBIS you will find the new repo here https://github.com/NBISweden
+BILS has been renamed to NBIS! The new NBIS GitHub page is here https://github.com/NBISweden
